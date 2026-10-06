@@ -687,7 +687,7 @@ print("\nRelatório de Desempenho:\n", classification_report(y_test, y_pred_stoc
 
 ---
 
-### Prova Prática 14: Classificação da Zona Extrema do Indicador Técnico RSI
+### Prova Prática 14: Classificação da Zona Extrema do Indicador Técnico RSI (escolhi essa - Victor Portolani)
 * **Objetivo Pedagógico:** Classificar se o Índice de Força Relativa (RSI) semanal de um ativo indicará zona de Sobrecompra ($>70$) ou Sobrevenda ($<30$) no período seguinte.
 * **Fontes de Dados:** Endpoints `RSI` e `TIME_SERIES_WEEKLY` da API Alpha Vantage.
 * **Roteiro Didático de Execução:**
